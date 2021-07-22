@@ -1,0 +1,386 @@
+2020-11-17 00:49:20 INFO #################### OPEN APP ####################
+2020-11-17 00:49:20 INFO _________________ START SESSION _________________
+2020-11-17 00:49:20 INFO WelcomeView
+2020-11-17 00:49:45 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 00:49:45 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 00:52:35 INFO #################### OPEN APP ####################
+2020-11-17 00:52:35 INFO _________________ START SESSION _________________
+2020-11-17 00:52:35 INFO WelcomeView
+2020-11-17 00:54:07 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 00:54:07 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 00:58:16 INFO #################### OPEN APP ####################
+2020-11-17 00:58:16 INFO _________________ START SESSION _________________
+2020-11-17 00:58:16 INFO WelcomeView
+2020-11-17 09:29:08 INFO #################### OPEN APP ####################
+2020-11-17 09:29:08 INFO _________________ START SESSION _________________
+2020-11-17 09:29:08 INFO WelcomeView
+2020-11-17 09:29:29 INFO ScanQRView
+2020-11-17 09:29:41 INFO WaitQRCodeView
+2020-11-17 09:29:46 INFO ScanQRView
+2020-11-17 09:29:51 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:29:51 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:30:34 INFO #################### OPEN APP ####################
+2020-11-17 09:30:34 INFO _________________ START SESSION _________________
+2020-11-17 09:30:34 INFO WelcomeView
+2020-11-17 09:30:52 INFO ScanQRView
+2020-11-17 09:31:02 INFO WaitQRCodeView
+2020-11-17 09:31:08 INFO ScanQRView
+2020-11-17 09:31:12 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:31:12 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:32:25 INFO #################### OPEN APP ####################
+2020-11-17 09:32:25 INFO _________________ START SESSION _________________
+2020-11-17 09:32:25 INFO WelcomeView
+2020-11-17 09:32:39 INFO ScanQRView
+2020-11-17 09:32:49 INFO WaitQRCodeView
+2020-11-17 09:32:55 INFO ScanQRView
+2020-11-17 09:32:58 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:32:58 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:33:39 INFO #################### OPEN APP ####################
+2020-11-17 09:33:39 INFO _________________ START SESSION _________________
+2020-11-17 09:33:39 INFO WelcomeView
+2020-11-17 09:33:53 INFO ScanQRView
+2020-11-17 09:34:02 INFO WaitQRCodeView
+2020-11-17 09:34:08 INFO ScanQRView
+2020-11-17 09:34:10 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:34:10 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:40:28 INFO #################### OPEN APP ####################
+2020-11-17 09:40:28 INFO _________________ START SESSION _________________
+2020-11-17 09:40:28 INFO WelcomeView
+2020-11-17 09:40:32 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:40:32 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:41:52 INFO #################### OPEN APP ####################
+2020-11-17 09:41:52 INFO _________________ START SESSION _________________
+2020-11-17 09:41:52 INFO WelcomeView
+2020-11-17 09:42:14 INFO ScanQRView
+2020-11-17 09:42:24 INFO WaitQRCodeView
+2020-11-17 09:42:30 INFO ScanQRView
+2020-11-17 09:42:33 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:42:33 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:43:29 INFO #################### OPEN APP ####################
+2020-11-17 09:43:29 INFO _________________ START SESSION _________________
+2020-11-17 09:43:29 INFO WelcomeView
+2020-11-17 09:43:50 INFO ScanQRView
+2020-11-17 09:43:59 INFO WaitQRCodeView
+2020-11-17 09:44:05 INFO ScanQRView
+2020-11-17 09:44:09 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:44:09 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:46:03 INFO #################### OPEN APP ####################
+2020-11-17 09:46:03 INFO _________________ START SESSION _________________
+2020-11-17 09:46:03 INFO WelcomeView
+2020-11-17 09:46:22 INFO ScanQRView
+2020-11-17 09:46:32 INFO WaitQRCodeView
+2020-11-17 09:46:38 INFO ScanQRView
+2020-11-17 09:46:40 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:46:40 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:47:23 INFO #################### OPEN APP ####################
+2020-11-17 09:47:23 INFO _________________ START SESSION _________________
+2020-11-17 09:47:23 INFO WelcomeView
+2020-11-17 09:47:37 INFO ScanQRView
+2020-11-17 09:47:47 INFO WaitQRCodeView
+2020-11-17 09:47:53 INFO ScanQRView
+2020-11-17 09:47:56 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:47:56 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:49:02 INFO #################### OPEN APP ####################
+2020-11-17 09:49:02 INFO _________________ START SESSION _________________
+2020-11-17 09:49:02 INFO WelcomeView
+2020-11-17 09:49:16 INFO ScanQRView
+2020-11-17 09:49:27 INFO WaitQRCodeView
+2020-11-17 09:49:32 INFO ScanQRView
+2020-11-17 09:49:34 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:49:34 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:50:22 INFO #################### OPEN APP ####################
+2020-11-17 09:50:22 INFO _________________ START SESSION _________________
+2020-11-17 09:50:22 INFO WelcomeView
+2020-11-17 09:50:48 INFO ScanQRView
+2020-11-17 09:50:58 INFO WaitQRCodeView
+2020-11-17 09:51:03 INFO ScanQRView
+2020-11-17 09:51:05 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:51:05 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:54:18 INFO #################### OPEN APP ####################
+2020-11-17 09:54:18 INFO _________________ START SESSION _________________
+2020-11-17 09:54:18 INFO WelcomeView
+2020-11-17 09:54:23 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:54:23 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:55:35 INFO #################### OPEN APP ####################
+2020-11-17 09:55:35 INFO _________________ START SESSION _________________
+2020-11-17 09:55:35 INFO WelcomeView
+2020-11-17 09:55:39 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:55:39 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:56:13 INFO #################### OPEN APP ####################
+2020-11-17 09:56:13 INFO _________________ START SESSION _________________
+2020-11-17 09:56:13 INFO WelcomeView
+2020-11-17 09:56:28 INFO ScanQRView
+2020-11-17 09:56:39 INFO WaitQRCodeView
+2020-11-17 09:56:44 INFO ScanQRView
+2020-11-17 09:56:46 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:56:46 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 09:57:27 INFO #################### OPEN APP ####################
+2020-11-17 09:57:27 INFO _________________ START SESSION _________________
+2020-11-17 09:57:27 INFO WelcomeView
+2020-11-17 09:57:41 INFO ScanQRView
+2020-11-17 09:57:58 INFO WaitQRCodeView
+2020-11-17 09:58:03 INFO ScanQRView
+2020-11-17 09:58:06 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 09:58:06 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:04:30 INFO #################### OPEN APP ####################
+2020-11-17 10:04:30 INFO _________________ START SESSION _________________
+2020-11-17 10:04:30 INFO WelcomeView
+2020-11-17 10:04:43 INFO ScanQRView
+2020-11-17 10:04:59 INFO WaitQRCodeView
+2020-11-17 10:05:05 INFO ScanQRView
+2020-11-17 10:05:11 INFO _________________ FINISH SESSION _________________
+2020-11-17 10:05:11 INFO _________________ START SESSION _________________
+2020-11-17 10:05:11 INFO WelcomeView
+2020-11-17 10:05:13 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:05:13 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:08:02 INFO #################### OPEN APP ####################
+2020-11-17 10:08:02 INFO _________________ START SESSION _________________
+2020-11-17 10:08:02 INFO WelcomeView
+2020-11-17 10:08:15 INFO ScanQRView
+2020-11-17 10:08:31 INFO WaitQRCodeView
+2020-11-17 10:08:37 INFO ScanQRView
+2020-11-17 10:08:39 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:08:39 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:10:02 INFO #################### OPEN APP ####################
+2020-11-17 10:10:02 INFO _________________ START SESSION _________________
+2020-11-17 10:10:02 INFO WelcomeView
+2020-11-17 10:10:12 INFO ScanQRView
+2020-11-17 10:10:28 INFO WaitQRCodeView
+2020-11-17 10:10:34 INFO ScanQRView
+2020-11-17 10:10:36 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:10:36 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:11:36 INFO #################### OPEN APP ####################
+2020-11-17 10:11:36 INFO _________________ START SESSION _________________
+2020-11-17 10:11:36 INFO WelcomeView
+2020-11-17 10:11:45 INFO ScanQRView
+2020-11-17 10:11:50 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:11:50 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:12:51 INFO #################### OPEN APP ####################
+2020-11-17 10:12:51 INFO _________________ START SESSION _________________
+2020-11-17 10:12:51 INFO WelcomeView
+2020-11-17 10:13:06 INFO ScanQRView
+2020-11-17 10:13:23 INFO WaitQRCodeView
+2020-11-17 10:13:28 INFO ScanQRView
+2020-11-17 10:13:34 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:13:34 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:14:45 INFO #################### OPEN APP ####################
+2020-11-17 10:14:45 INFO _________________ START SESSION _________________
+2020-11-17 10:14:45 INFO WelcomeView
+2020-11-17 10:14:47 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:14:47 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:15:22 INFO #################### OPEN APP ####################
+2020-11-17 10:15:22 INFO _________________ START SESSION _________________
+2020-11-17 10:15:22 INFO WelcomeView
+2020-11-17 10:15:37 INFO ScanQRView
+2020-11-17 10:15:53 INFO WaitQRCodeView
+2020-11-17 10:15:59 INFO ScanQRView
+2020-11-17 10:16:02 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:16:02 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-11-17 10:17:12 INFO #################### OPEN APP ####################
+2020-11-17 10:17:12 INFO _________________ START SESSION _________________
+2020-11-17 10:17:12 INFO WelcomeView
+2020-11-17 10:17:27 INFO ScanQRView
+2020-11-17 10:17:44 INFO WaitQRCodeView
+2020-11-17 10:17:49 INFO ScanQRView
+2020-11-17 10:17:52 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 228, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-11-17 10:17:52 ERROR Traceback (most recent call last):
+  File "/home/trung1711/Downloads/key-vending-copy1/app/views/main_view.py", line 233, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+

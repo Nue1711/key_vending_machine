@@ -1,0 +1,4 @@
+pip3 install PyQt5 --user 
+pip3 install requests --user
+pip3 install momment --user
+pip3 install observable --user

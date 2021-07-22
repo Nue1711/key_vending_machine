@@ -1,0 +1,42 @@
+2020-08-31 09:38:01 INFO #################### OPEN APP ####################
+2020-08-31 09:38:01 INFO _________________ START SESSION _________________
+2020-08-31 09:39:24 INFO #################### OPEN APP ####################
+2020-08-31 09:39:24 INFO _________________ START SESSION _________________
+2020-08-31 09:39:24 INFO WelcomeView
+2020-08-31 09:39:33 ERROR Traceback (most recent call last):
+  File "/Users/ducnguyen/Desktop/Project/Locker/Code/key-vending-copy/app/views/main_view.py", line 158, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-08-31 09:39:33 ERROR Traceback (most recent call last):
+  File "/Users/ducnguyen/Desktop/Project/Locker/Code/key-vending-copy/app/views/main_view.py", line 163, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-08-31 09:39:45 INFO #################### OPEN APP ####################
+2020-08-31 09:39:45 INFO _________________ START SESSION _________________
+2020-08-31 09:39:45 INFO WelcomeView
+2020-08-31 09:39:46 INFO ScanQRView
+2020-08-31 09:39:50 ERROR Traceback (most recent call last):
+  File "/Users/ducnguyen/Desktop/Project/Locker/Code/key-vending-copy/app/views/main_view.py", line 156, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-08-31 09:39:50 ERROR Traceback (most recent call last):
+  File "/Users/ducnguyen/Desktop/Project/Locker/Code/key-vending-copy/app/views/main_view.py", line 161, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
+2020-08-31 09:45:01 INFO #################### OPEN APP ####################
+2020-08-31 09:45:01 INFO _________________ START SESSION _________________
+2020-08-31 09:45:01 INFO WelcomeView
+2020-08-31 09:45:03 ERROR Traceback (most recent call last):
+  File "/Users/ducnguyen/Desktop/Project/Locker/Code/key-vending-copy/app/views/main_view.py", line 156, in closeEvent
+    self.__controller.stopRemoteControl()
+AttributeError: 'MainController' object has no attribute 'stopRemoteControl'
+
+2020-08-31 09:45:03 ERROR Traceback (most recent call last):
+  File "/Users/ducnguyen/Desktop/Project/Locker/Code/key-vending-copy/app/views/main_view.py", line 161, in closeEvent
+    self.__controller.stopUpdateMachine()
+AttributeError: 'MainController' object has no attribute 'stopUpdateMachine'
+
